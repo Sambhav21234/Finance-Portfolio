@@ -18,7 +18,7 @@ This report provides an in-depth analysis of the **Tata Equity P/E Fund**, focus
 - **Performance:** Outperformed Nifty 500 TRI and BSE Sensex across multiple time horizons.
 - **Risk Metrics:** Higher Sharpe Ratio and alpha, demonstrating superior risk-adjusted returns.
 
-📥 [Download the Report](reports/Mutual%20Fund%20Analysis.pdf)
+📥 [Download the Report](https://github.com/user-attachments/files/18463283/Mutual.Fund.Anlysis.pdf)
 
 ---
 
